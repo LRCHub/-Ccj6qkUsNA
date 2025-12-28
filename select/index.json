@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Slogan",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-28T18:01:35.960246Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Slogan",
+      "artist": "Blonde Redhead",
+      "has_synced": true,
+      "path": "select/01_Slogan_Blonde_Redhead.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Slogan",
+      "artist": "Banco del Mutuo Soccorso",
+      "has_synced": true,
+      "path": "select/02_Slogan_Banco_del_Mutuo_Soccorso.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Name No Slogan (Hypo Luxa / Hermes Pan 12\" Mix)",
+      "artist": "Acid Horse",
+      "has_synced": false,
+      "path": "select/03_No_Name_No_Slogan_(Hypo_Luxa___Hermes_Pan_12__Mix)_Acid_Horse.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Acid Horse - No Name No Slogan (Hypo Luxa/Hermes Pan)",
+      "artist": "Ministry",
+      "has_synced": false,
+      "path": "select/04_Acid_Horse_-_No_Name_No_Slogan_(Hypo_Luxa_Hermes_Pan)_Ministry.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Name, No Slogan (produced by Hypo Luxa & Hermes Pan)",
+      "artist": "Acid Horse",
+      "has_synced": false,
+      "path": "select/05_No_Name,_No_Slogan_(produced_by_Hypo_Luxa_&_Hermes_Pan)_Acid_Horse.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Name, No Slogan (produced by Hypo Luxa & Hermes Pan)",
+      "artist": "Acid Horse",
+      "has_synced": false,
+      "path": "select/06_No_Name,_No_Slogan_(produced_by_Hypo_Luxa_&_Hermes_Pan)_Acid_Horse.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No Name No Slogan",
+      "artist": "Acid Horse",
+      "has_synced": true,
+      "path": "select/07_No_Name_No_Slogan_Acid_Horse.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Name, No Slogan",
+      "artist": "Acid Horse",
+      "has_synced": true,
+      "path": "select/08_No_Name,_No_Slogan_Acid_Horse.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "La chanson de Slogan (BOF Slogan)",
+      "artist": "Serge Gainsbourg feat. Jane Birkin",
+      "has_synced": false,
+      "path": "select/09_La_chanson_de_Slogan_(BOF_Slogan)_Serge_Gainsbourg_feat._Jane_Birkin.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "La Chanson de Slogan (B.O.F. \"Slogan\")",
+      "artist": "Serge Gainsbourg & Jane Birkin",
+      "has_synced": false,
+      "path": "select/10_La_Chanson_de_Slogan_(B.O.F.__Slogan_)_Serge_Gainsbourg_&_Jane_Birkin.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Call It Art (La Chanson De Slogan)",
+      "artist": "The Kills",
+      "has_synced": true,
+      "path": "select/11_I_Call_It_Art_(La_Chanson_De_Slogan)_The_Kills.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Billiger Slogan",
+      "artist": "Tankwart",
+      "has_synced": false,
+      "path": "select/12_Billiger_Slogan_Tankwart.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Slogan On A Shirt",
+      "artist": "7seconds",
+      "has_synced": true,
+      "path": "select/13_Slogan_On_A_Shirt_7seconds.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Slogan Attempt",
+      "artist": "Blonde Redhead",
+      "has_synced": true,
+      "path": "select/14_Slogan_Attempt_Blonde_Redhead.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Slogan",
+      "artist": "Fred De Palma",
+      "has_synced": true,
+      "path": "select/15_Slogan_Fred_De_Palma.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "La Chanson de Slogan",
+      "artist": "Jane Birkin",
+      "has_synced": false,
+      "path": "select/16_La_Chanson_de_Slogan_Jane_Birkin.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Slogan",
+      "artist": "Banco del Mutuo Soccorso",
+      "has_synced": true,
+      "path": "select/17_Slogan_Banco_del_Mutuo_Soccorso.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "La chanson de Slogan (Bande originale du film \"Slogan\")",
+      "artist": "Serge Gainsbourg;Jane Birkin",
+      "has_synced": false,
+      "path": "select/18_La_chanson_de_Slogan_(Bande_originale_du_film__Slogan_)_Serge_Gainsbourg;Jane_Birkin.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Můj slogan",
+      "artist": "Michal David, Kroky Františka Janečka",
+      "has_synced": true,
+      "path": "select/19_Můj_slogan_Michal_David,_Kroky_Františka_Janečka.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Billiger Slogan (2018 - Remaster)",
+      "artist": "Tankwart",
+      "has_synced": false,
+      "path": "select/20_Billiger_Slogan_(2018_-_Remaster)_Tankwart.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Slogan",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Slogan_BE_FIRST.txt"
+    }
+  ]
+}
